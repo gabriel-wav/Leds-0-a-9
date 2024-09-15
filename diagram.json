@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "author": "Anonymous maker",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-esp32-devkit-c-v4", "id": "esp", "top": -124.8, "left": -71.96, "attrs": {} },
+    {
+      "type": "wokwi-7segment",
+      "id": "sevseg1",
+      "top": -52.62,
+      "left": -148.52,
+      "attrs": { "common": "cathode", "digits": "1", "colon": "", "color": "red" }
+    }
+  ],
+  "connections": [
+    [ "esp:TX", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX", "$serialMonitor:TX", "", [] ],
+    [ "sevseg1:A", "esp:12", "red", [ "v-8.76", "h28.8", "v76.8" ] ],
+    [ "esp:13", "sevseg1:B", "red", [ "h-28.65", "v-124.8" ] ],
+    [ "esp:14", "sevseg1:C", "red", [ "h-9.45", "v38.4", "h-28.8" ] ],
+    [ "esp:15", "sevseg1:D", "red", [ "v9.6", "h-163.2" ] ],
+    [ "sevseg1:E", "esp:17", "red", [ "v67.2", "h182.4", "v-86.4" ] ],
+    [ "sevseg1:F", "esp:18", "red", [ "v-85.56", "h182.4", "v115.2" ] ],
+    [ "sevseg1:G", "esp:19", "red", [ "v-95.16", "h172.8" ] ],
+    [ "sevseg1:COM.2", "esp:GND.1", "black", [ "h0", "v-18.36", "h48", "v96" ] ],
+    [ "sevseg1:COM.1", "esp:GND.1", "black", [ "h0", "v9.6" ] ]
+  ],
+  "dependencies": {}
+}
