@@ -8,9 +8,9 @@ Um pacote de recursos visuais (`asset pack`) contendo imagens em formato `.png` 
 
 | 0 | 1 | 2 | 3 | 4 |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/0.png" width="100"> | <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/1.png" width="100"> | <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/2.png" width="100"> | <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/3.png" width="100"> | <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/4.png" width="100"> |
+| <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/images/zero.png" width="100"> | <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/images/um.png" width="100"> | <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/images/dois.png" width="100"> | <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/images/tres.png" width="100"> | <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/images/quatro.png" width="100"> |
 | **5** | **6** | **7** | **8** | **9** |
-| <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/5.png" width="100"> | <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/6.png" width="100"> | <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/7.png" width="100"> | <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/8.png" width="100"> | <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/9.png" width="100"> |
+| <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/images/cinco.png" width="100"> | <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/images/seis.png" width="100"> | <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/images/sete.png" width="100"> | <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/images/oito.png" width="100"> | <img src="https://raw.githubusercontent.com/gabriel-wav/Leds-0-a-9/main/images/nove.png" width="100"> |
 
 ---
 
@@ -18,16 +18,16 @@ Um pacote de recursos visuais (`asset pack`) contendo imagens em formato `.png` 
 
 O repositório contém os seguintes arquivos de imagem:
 
-* `0.png`
-* `1.png`
-* `2.png`
-* `3.png`
-* `4.png`
-* `5.png`
-* `6.png`
-* `7.png`
-* `8.png`
-* `9.png`
+* `zero.png`
+* `um.png`
+* `dois.png`
+* `tres.png`
+* `quatro.png`
+* `cinco.png`
+* `seis.png`
+* `sete.png`
+* `oito.png`
+* `nove.png`
 
 ---
 
